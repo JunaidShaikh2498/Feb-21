@@ -1,0 +1,32 @@
+.container{
+    background-color: rgb(248, 178, 91);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box{
+    height: 270px;
+    width: 270px;
+    padding: 10px;
+    margin: 20px;
+    background-color: aqua;
+}
+
+.para{
+    color: rgb(97, 97, 228);
+}
+
+.container1{
+    background-color: blanchedalmond;
+    width: 200px;
+    height: 200px;
+}
+.boxx{
+    background-color: blueviolet;
+    border: 2px solid red;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-left: 20px;
+    width: 100px;
+    height: 100px;
+}
